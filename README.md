@@ -1,21 +1,19 @@
 # Hi, I'm gfxv
 
-## Tech Stack:
+### Tech Stack:
 - **Languages:** Go, Python, JavaScript, HTML/CSS
-- **Frameworks:** Gin, Echo, Fiber
+- **Backend:** Gin, Echo, Fiber, REST, gRPC
 - **Database:** PostgreSQL, SQLite, MongoDB, Redis
 - **DevOps:** Docker, Portainer, GitLab CI
-- **Tools:** Git, Make, Task, Postman
+- **Tools:** Git, Make, Task
 
-## Currently Learning:
+### Currently Learning:
 - gRPC & Protocol Buffers
 - Go Concurrency Patterns
-- PostgreSQL internals
+- PostgreSQL Internals
 
-## Notable Projects:
+### Notable Projects:
 - [Stash](https://github.com/gfxv/go-stash) - A Distributed Content Addressable Storage system 
-- [Gait](https://github.com/gfxv/gait) - ...
 
-## Contact:
-- **Telegram**: @gfxvgfxv
-- more...
+### Contact:
+- **Telegram**: `@gfxvgfxv`
