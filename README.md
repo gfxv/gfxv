@@ -2,7 +2,7 @@
 
 ### Tech Stack:
 - **Languages:** Go, Python, JavaScript, HTML/CSS
-- **Backend:** Gin, Echo, Fiber, REST, gRPC
+- **Backend:** Gin, Fiber, FastAPI, REST, gRPC
 - **Database:** PostgreSQL, SQLite, MongoDB, Redis
 - **DevOps:** Docker, Portainer, GitLab CI
 - **Tools:** Git, Make, Task
@@ -16,4 +16,4 @@
 - [Stash](https://github.com/gfxv/go-stash) - A Distributed Content Addressable Storage system 
 
 ### Contact:
-- **Telegram**: `@gfxvgfxv`
+- **Telegram:** `@gfxvgfxv`
