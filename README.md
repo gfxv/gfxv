@@ -12,8 +12,8 @@
 - Go Concurrency Patterns
 - PostgreSQL Internals
 
-### Notable Projects:
-- [Stash](https://github.com/gfxv/go-stash) - A Distributed Content Addressable Storage system 
+### Notable Projects
+- Check out **pinned** section to see some projects I've been working on
 
 ### Contact:
 - **Telegram:** `@gfxvgfxv`
