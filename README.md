@@ -7,11 +7,6 @@
 - **DevOps:** Docker, Portainer, GitLab CI
 - **Tools:** Git, Make, Task
 
-### Currently Learning:
-- gRPC & Protocol Buffers
-- Go Concurrency Patterns
-- PostgreSQL Internals
-
 ### Notable Projects
 - Check out **pinned** section to see some projects I've been working on
 
