@@ -11,4 +11,4 @@
 - Check out **pinned** section to see some projects I've been working on
 
 ### Contact:
-- **Telegram:** `@gfxvgfxv`
+- **Mail:** `irudkevich [AT] proton.me`
